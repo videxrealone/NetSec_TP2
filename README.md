@@ -189,7 +189,7 @@ Let's try to connect to **cck.rnu.tn**
 
 ![image](https://user-images.githubusercontent.com/91763346/197298840-a1553209-90aa-48bd-881a-be1249e351fd.png)
 
-We can see that it's not the content we expected, thus we **successfully** did an DNS attack.
+We can see that it's not the content we expected, thus we **successfully** did a DNS attack.
 
 The idea here is to be able to clone the website so, once the target tries to connect to that server, it's actually gonna be our **clone** that will give us access to his credentials.
 
